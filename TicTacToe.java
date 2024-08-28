@@ -1,9 +1,3 @@
-/*
- * Molly Teets
- * CSE 271 Section D
- * This program runs the game Tic Tac Toe
- */
-
 // Import component classes from swing package
 import javax.swing.*;
 
